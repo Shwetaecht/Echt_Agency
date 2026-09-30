@@ -230,7 +230,7 @@ export const contact = {
     "We strive to stay in communication with our clients. Have a question about our business, or want to see if we match your specific needs? Send us a message, or give us a call. We're always happy to connect with new customers!",
   address:
     '406, B-Wing, Everest Chambers, Near Marol Metro Station, Sir Mathuradas Vasanji Rd, Marol, Andheri East, Mumbai, Maharashtra 400059',
-  phones: ['+91 9967425410', '+971 05825410'],
+  phones: ['+91 9967425410', '+971 505825410'],
   emails: ['info@echtlearning.com', 'echtlearning@gmail.com'],
 }
 
